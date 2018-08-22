@@ -1,48 +1,48 @@
 {
   "Alchemist": {
-    "NAME": "Alchemist",
+    "NAME": "Alkimista",
     "DESCRIPTIONS": [
-      "Bought 5 potions."
+      "5 potion megvéve "
     ]
   },
   "Ascension": {
-    "NAME": "Ascension",
+    "NAME": "Felemelkedés",
     "DESCRIPTIONS": [
-      "+5% score per Ascension Level."
+      "+5% pont Felemelkedési szintenként."
     ]
   },
   "Beyond Elites Killed": {
-    "NAME": "Beyond Elites Killed",
+    "NAME": "Túlvilág elitek megölve ",
     "DESCRIPTIONS": []
   },
   "Beyond Perfect": {
-    "NAME": "Beyond Perfect",
+    "NAME": "Több mint tökéletes",
     "DESCRIPTIONS": [
-      "Defeat 3 bosses without taking damage."
+      "Győzd le mind 3 bosst anélkül hogy sebződnél."
     ]
   },
-  "Bosses Slain": {
-    "NAME": "Bosses Slain",
+  "Bosses Legyőzve": {
+    "NAME": "Bosses Legyőzve",
     "DESCRIPTIONS": []
   },
   "Champion": {
-    "NAME": "Champion",
+    "NAME": "Bajnok",
     "DESCRIPTIONS": [
-      "Defeat an Elite without taking damage."
+      "Elit legyőzése sebződés nélkül."
     ]
   },
   "Cheater": {
-    "NAME": "Cheater",
+    "NAME": "Csaló",
     "DESCRIPTIONS": [
-      "Caught cheating. If caught twice, your score will never upload to the Leaderboards."
+      "Csaláson kapva. Két csalás után a pontod töbet nem lesz feltöltve a Ranglistára."
     ]
   },
   "City Elites Killed": {
-    "NAME": "City Elites Killed",
+    "NAME": "Város Elitek megölve",
     "DESCRIPTIONS": []
   },
   "Collector": {
-    "NAME": "Collector",
+    "NAME": "Gyüjtő",
     "DESCRIPTIONS": [
       "Have 4 copies of any non-starter card."
     ]
@@ -50,23 +50,23 @@
   "Combo": {
     "NAME": "C-c-c-combo",
     "DESCRIPTIONS": [
-      "Play 20 cards in a single turn."
+      "Játssz ki 20 kártyát egy körben."
     ]
   },
   "Curses": {
-    "NAME": "Curses!",
+    "NAME": "Átkozott",
     "DESCRIPTIONS": [
-      "Your deck contains 5 curses."
+      "A paklidban 5 átok van."
     ]
   },
   "Encyclopedian": {
-    "NAME": "Encyclopedian",
+    "NAME": "Enciklopédia",
     "DESCRIPTIONS": [
       "Deck size of at least 50 cards."
     ]
   },
   "Exordium Elites Killed": {
-    "NAME": "Exordium Elites Killed",
+    "NAME": "Bevezető Elitek Megölve",
     "DESCRIPTIONS": []
   },
   "Highlander": {
@@ -76,25 +76,25 @@
     ]
   },
   "I Like Gold": {
-    "NAME": "I Like Gold",
+    "NAME": "Szeretem az aranyat",
     "DESCRIPTIONS": [
-      "Accrued 3,000 gold."
+      "Felhalmoztál 3,000 aranyat."
     ]
   },
   "Librarian": {
-    "NAME": "Librarian",
+    "NAME": "Könyvtáros",
     "DESCRIPTIONS": [
       "Deck size of at least 35 cards."
     ]
   },
   "Light Speed": {
-    "NAME": "Light Speed",
+    "NAME": "Fénysebesség",
     "DESCRIPTIONS": [
       "Victory in under 45 minutes."
     ]
   },
   "Minimalist": {
-    "NAME": "Minimalist",
+    "NAME": "Minimalista",
     "DESCRIPTIONS": [
       "Removed 5+ cards from your deck."
     ]
@@ -102,7 +102,7 @@
   "Money Money": {
     "NAME": "Money Money",
     "DESCRIPTIONS": [
-      "Accrued 1,000 gold."
+      "Felhalmoztál 1,000 aranyat."
     ]
   },
   "Mystery Machine": {
@@ -130,13 +130,13 @@
     ]
   },
   "Perfect": {
-    "NAME": "Perfect",
+    "NAME": "Tökéletes",
     "DESCRIPTIONS": [
       "Defeat a Boss without taking damage."
     ]
   },
   "Poopy": {
-    "NAME": "Poopy",
+    "NAME": "Kakis",
     "DESCRIPTIONS": [
       "Received the Spirit Poop."
     ]
@@ -144,7 +144,7 @@
   "Raining Money": {
     "NAME": "Raining Money",
     "DESCRIPTIONS": [
-      "Accrued 2,000 gold."
+      "Felhalmoztál 2,000 aranyat."
     ]
   },
   "Shiny": {
@@ -160,13 +160,13 @@
     ]
   },
   "Stuffed": {
-    "NAME": "Stuffed",
+    "NAME": "Megtömve",
     "DESCRIPTIONS": [
       "Increased your Max HP by 30+."
     ]
   },
   "Well Fed": {
-    "NAME": "Well Fed",
+    "NAME": "Jóllakott",
     "DESCRIPTIONS": [
       "Increased your Max HP by 15+."
     ]
